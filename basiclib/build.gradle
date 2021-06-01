@@ -137,7 +137,8 @@ uploadArchives {
     }
 }
 
-ext {
+ext
+        {
     versionCode = 1
     versionName_app = '0.0.0'
     //todo xcq
